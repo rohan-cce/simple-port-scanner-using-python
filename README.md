@@ -4,7 +4,7 @@ Usage - python Scanner.py <ip>
 
 ## Technology Stack Used
 
-![Python](https://img.shields.io/badge/frontend-html-orange.svg?logo=python&style=flat-square) 
+![Python](https://img.shields.io/badge/python-orange.svg?logo=python&style=flat-square) 
 
 
 
